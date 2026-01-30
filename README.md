@@ -5,11 +5,19 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Machine Learning](https://img.shields.io/badge/ML-Classification-orange.svg)](https://scikit-learn.org/)
 
+### 🚀 [**Try the Live App**](https://app-python-jjqwgkziauqderd6t5wprt.streamlit.app/) 🚀
+
 An interactive machine learning web application built with Streamlit that classifies mushrooms as **edible** or **poisonous** using multiple classification algorithms. Users can select different models, tune hyperparameters in real-time, and visualize comprehensive performance metrics.
+
+> **🌐 Live Demo**: [https://app-python-jjqwgkziauqderd6t5wprt.streamlit.app/](https://app-python-jjqwgkziauqderd6t5wprt.streamlit.app/)
 
 ## 🎯 Project Overview
 
 This project demonstrates an end-to-end machine learning pipeline, from data preprocessing to model deployment. It provides an intuitive interface for comparing three popular classification algorithms and understanding their performance through interactive visualizations.
+
+**🌐 Live Application**: The app is deployed and accessible at [https://app-python-jjqwgkziauqderd6t5wprt.streamlit.app/](https://app-python-jjqwgkziauqderd6t5wprt.streamlit.app/)
+
+Try it yourself - no installation required!
 
 ### ✨ Key Features
 
@@ -64,12 +72,19 @@ All categorical features are encoded numerically for machine learning processing
 
 ## 🚀 Getting Started
 
-### Prerequisites
+### Option 1: Try the Live Demo (Recommended)
+
+**No installation needed!** Access the app directly at:
+👉 **[https://app-python-jjqwgkziauqderd6t5wprt.streamlit.app/](https://app-python-jjqwgkziauqderd6t5wprt.streamlit.app/)**
+
+### Option 2: Run Locally
+
+#### Prerequisites
 
 - Python 3.8 or higher
 - pip (Python package manager)
 
-### Installation
+#### Installation
 
 1. **Clone the repository**
    ```bash
@@ -93,7 +108,7 @@ All categorical features are encoded numerically for machine learning processing
    pip install -r requirements.txt
    ```
 
-### Running the Application
+#### Running the Application
 
 ```bash
 streamlit run app.py
@@ -134,7 +149,6 @@ Streamlit-python/
 └── .gitignore            # Git ignore rules
 ```
 
-
 ## 🤝 Contributing
 
 Contributions are welcome! If you'd like to improve this project:
@@ -153,7 +167,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Khadija**
 - GitHub: [@khadijja1](https://github.com/khadijja1)
-
+ Scikit-learn contributors for robust ML tools
 
 ## 📧 Contact
 
